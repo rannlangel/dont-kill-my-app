@@ -1,4 +1,5 @@
----
+---<a href="/xiaomi"><img id="badge-shareable" width="306px" src="/assets/img/placeholder.svg"></a>
+
 name: Xiaomi
 subtitle: except Android One
 manufacturer:
